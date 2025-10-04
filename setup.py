@@ -10,6 +10,6 @@ setup(
         "pytest",
         "pandas",
         "matplotlib",
-        "scikit-learn",
+        "scikit-learn == 1.6.1",
     ],
 )
